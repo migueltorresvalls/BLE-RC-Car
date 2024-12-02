@@ -1,3 +1,7 @@
+# Coche RC de carreras con detección de obstáculos
+
+![alt text](Imagenes/imagen_coche.png)
+
 ## Descripción del Sistema
 Este proyecto consiste en la implementación de un coche RC de carreras con detección de obstáculos, basado en
 la arquitectura del PIC32MX230F064D. Para el control del mismo, haremos uso de la tecnología Bluetooth. Destacar
