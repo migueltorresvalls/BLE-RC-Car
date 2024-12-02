@@ -1,4 +1,4 @@
-# Coche RC de carreras con detección de obstáculos
+# Coche RC de carreras con detección de obstáculos controlado por Bluetooth
 
 ![alt text](Imagenes/imagen_coche.png)
 
